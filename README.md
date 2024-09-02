@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @sannyisabelle
+###  Hi 👋 
+-  I’m sanny isabelle
 - 👀 I’m interested in games ...
 - 🌱 I’m currently learning technologies ...
 - 💞️ I’m looking to collaborate on study...
-- 📫 How to reach me message...
+- 📫 How to reach me message @ahh.sanny
 - 😄 Pronouns: she/her ...
 - ⚡ Fun fact: I like to sleep...
 
-<!---
-sannyisabelle/sannyisabelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+![emy-départ](https://github.com/user-attachments/assets/bdb60d11-ecb4-4816-9b4f-9d64f24c7bf8)
