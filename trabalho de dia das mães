@@ -1,0 +1,26 @@
+import time
+
+mensagem = [" Feliz dia das mães!!!",
+"❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+"Mãe parabens por esse dia incrivel",
+"obrigado por todos esses dias",
+"amo muito voce",
+"❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+"obrigada por ser essa mulher sensacional que voce",
+"a mulher mais perfeita do mundo",
+"Te Amo"
+]
+for linha in mensagem :
+    print(linha)
+    time.sleep(1.5) #espere 1.5 segundos antes de mostrar a próxima linha
+
+# criando um pequeno coracão com caracteres
+print()
+print("     **     **")
+print("  ******* ******")
+print("  **************")
+print("   ************")
+print("    **********")
+print("      *******")
+print("       *****")
+print("         **")
